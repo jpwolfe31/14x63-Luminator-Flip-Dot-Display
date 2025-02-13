@@ -1,4 +1,4 @@
-# Luminator-Flip-Dot-Display-14x21--3
+# 14x63 Luminator Flip Dot Display
 Luminator Flip Dot Display 14x21 (3)
 
 Flip Dot Display Build Information
