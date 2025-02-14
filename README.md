@@ -14,3 +14,5 @@ On the three 14x21 display boards, the electronics used to control the display a
 The display is controlled by a Blynk iPhone app.  Unfortunately, Blynk just announced that it is not supporting new makers on its app, but I believe this program could be modified to work with the Aurduino Cloud IOT and its messenger and button widgets.
 
 See folders above for code, schematics, build information and printed circuit boards. Feel free to email me at jpwolfe31@yahoo.com if you have any questions.
+
+Video at:  https://www.youtube.com/watch?v=LgkpwIBXWuQ
