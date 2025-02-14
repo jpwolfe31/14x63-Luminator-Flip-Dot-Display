@@ -11,7 +11,9 @@ While having different arrangements of dots, the displays use the same flip dot 
 
 On the three 14x21 display boards, the electronics used to control the display are located on the back of the display boards.  All of the PC boards are the same and each is attached using the four 14 pin connectors already on the bottom of each display board.  The first board has the Nano-ESP32 that controls the entire display.  This first board also has both row and column drivers.  These row drivers are also used by the other two boards.  The second and third boards just have the column drivers for their respective board.  The build information and the schematic has further details.
 
-The display is controlled by a Blynk iPhone app.  Unfortunately, Blynk just announced that it is not supporting new makers on its app, but I believe this program could be modified to work with the Aurduino Cloud IOT and its messenger and button widgets.
+The display is controlled by a Blynk iPhone app.  
+
+The software includes tetris and game of life applications.  Both work great on aflip dot.  Unfortunately, Blynk just announced that it is not supporting new makers on its app, but I believe this program could be modified to work with the Aurduino Cloud IOT and its messenger and button widgets.
 
 See folders above for code, schematics, build information and printed circuit boards. Feel free to email me at jpwolfe31@yahoo.com if you have any questions.
 
