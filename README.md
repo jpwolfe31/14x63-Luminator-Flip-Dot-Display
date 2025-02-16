@@ -19,9 +19,12 @@ The display is controlled by a Blynk iPhone app.  Unfortunately, Blynk just anno
 
 See folders above for code, schematics, build information and printed circuit boards. Feel free to email me at jpwolfe31@yahoo.com if you have any questions.
 
-Video at:  
+Video at:
+
 https://www.youtube.com/watch?v=LgkpwIBXWuQ
+
 https://youtu.be/BQHgyntLoKs?feature=shared
+
 https://m.youtube.com/watch?v=YWwqzukXhUw
 
 
