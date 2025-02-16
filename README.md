@@ -5,7 +5,7 @@ Flip Dot Display Build Information
 
 ![IMG_2178](https://github.com/user-attachments/assets/3ae5ba9a-99da-4f12-9b67-abaf8a084262)
 
-These Luminator Flip Dot displays were acquired on eBay in 2023.  As shown in the uploaded photo, the upper display was the first acquisition and consists of two side by side five character boards with each character having a 7 by 5 dot matrix.  The lower display was acquired a few months later and consists of three 14 by 21 dot matrices.  Both were used on transit busses.
+These Luminator Flip Dot displays were acquired on eBay in 2023.  The upper display consists of two side by side five character boards with each character having a 7 by 5 dot matrix.  The lower display consists of three 14 by 21 dot matrices.  Both were used on transit busses.
 
 There are two github repositories as the units are controlled quite differently.  The first is for the lower display and is called 14x63 Luminator Flip Dot Display.  The second is for the upper display and is called 10 Character 7x5 Luminator Flip Dot Display.  This later repository is not quite finished and only has the software, schematics and pcb board designs.
 
