@@ -23,8 +23,8 @@ Video at:
 
 https://www.youtube.com/watch?v=LgkpwIBXWuQ
 
-https://youtu.be/BQHgyntLoKs?feature=shared
+https://www.youtube.com/watch?v=YWwqzukXhUw
 
-https://m.youtube.com/watch?v=YWwqzukXhUw
+https://www.youtube.com/watch?v=BQHgyntLoKs&t=7s
 
 
